@@ -1,15 +1,19 @@
 Nesta atividade de Programção Orientada a Objetos foi proposto para ser desenvolvido um programa de fabricação de cerveja, usando os atributos do tipo private e para acessar usando os métodos getters() e setters().
 
 CLASSE INGREDIENTE:
+
     Contém os atributos e os métodos getters()esetters().
     
 CLASSE RECEITA: 
+
     Contém o nome e uma lista com vários Ingredientesprovidos da classe Ingrediente, métodos getters()esetters()e o métodoque adiciona um ingredienteatravés de parâmetro.
     
 CLASSE CERVEJA:
+
     Contém os atributos e um objeto Receita vindo da classe Receitae os métodos getters()esetters().
     
 CLASSE PRINCIPAL: 
+
     -Cadastrar vários ingredientes.
     
     -Cadastrar3 receitas usando os ingredientes da classe Ingrediente.
